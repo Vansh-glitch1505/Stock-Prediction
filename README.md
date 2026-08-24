@@ -21,7 +21,7 @@ A machine learning pipeline that predicts short-term stock price direction (UP/D
 6. **Deployment** — Serves live predictions through a Streamlit dashboard with price charts and a BUY/SELL/HOLD signal
 
 ---
-
+![](https://github.com/Vansh-glitch1505/Stock-Prediction/blob/main/WhatsApp%20Image%202026-08-25%20at%2003.00.29.jpeg?raw=true)
 ## 🛠 Tech Stack
 
 `Python` · `XGBoost` · `scikit-learn` · `yfinance` · `ta` (technical analysis) · `Streamlit` · `Pandas` / `NumPy`
